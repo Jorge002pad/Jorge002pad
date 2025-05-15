@@ -76,10 +76,9 @@ Soy Jorge Luis, un joven oaxaqueño de 23 años apasionado por **aprender, crear
 
 ## 📫 Contacto
 
-📍 Huajuapan de León, Oaxaca  
 📧 [jorgepad002@gmail.com](mailto:jorgepad002@gmail.com)
 <!-- Agrega tu LinkedIn si tienes -->
-<!-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) -->
+🔗 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/jorge-luis-padilla-mart%C3%ADnez-6a20742a6/))
 
 ---
 
