@@ -1,5 +1,5 @@
 <!-- Banner opcional -->
-<!-- <img src="https://your-banner-image.com/banner.png" alt="banner" /> -->
+<img src="https://user-images.githubusercontent.com/72491412/124944400-e75fde00-e02a-11eb-82b3-6b6d9af4c5c1.png" alt="banner" />
 
 <h1 align="center">👨‍💻 Jorge Luis Padilla Martínez</h1>
 <p align="center">Estudiante de Ingeniería en Computación | Apasionado por la innovación tecnológica</p>
