@@ -61,7 +61,7 @@ Soy Jorge Luis, un joven oaxaqueño de 23 años apasionado por **aprender, crear
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jorge002pad&show_icons=true&theme=gruvbox" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge002padrio&layout=compact&theme=gruvbox" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge002pad&layout=compact&theme=gruvbox" alt="Lenguajes más usados" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Jorge002pad&theme=gruvbox" alt="Racha de contribuciones" />
 </p>
