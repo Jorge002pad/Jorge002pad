@@ -34,26 +34,6 @@ Soy Jorge Luis, un joven oaxaqueño de 23 años apasionado por **aprender, crear
 
 ---
 
-## 💼 Proyectos y Experiencia
-
-- 🧾 **Sistema de Punto de Venta** – Proyecto académico  
-- 🔁 **Traductor de código C a Pascal** – Proyecto universitario  
-- ⚙️ **Compilador de una versión reducida de C**  
-- 🌦️ **Estación Meteorológica en Tiempo Real** – Raspberry Pi + Flask  
-- 🤟 **Plataforma para aprender lenguaje de señas**  
-- 🔧 **Migración y mantenimiento de "Póliza de Rentas"** – Backend y frontend durante prácticas profesionales  
-- 🏫 **Plataforma educativa tipo Classroom** – Servicio social (líder del proyecto)  
-
----
-
-## 📚 Formación Académica
-
-**Universidad Tecnológica de la Mixteca**  
-📍 Huajuapan de León, Oaxaca  
-🗓️ 2020 – Actualidad  
-🎓 Ingeniería en Computación
-
----
 
 ## 📊 Estadísticas de GitHub
 
@@ -65,18 +45,9 @@ Soy Jorge Luis, un joven oaxaqueño de 23 años apasionado por **aprender, crear
 ## 📫 Contacto
 
 📍 Huajuapan de León, Oaxaca  
-📧 [jorgepad002@gmail.com](mailto:jorgepad002@gmail.com)  
-📱 +52 953 239 8117  
+📧 [jorgepad002@gmail.com](mailto:jorgepad002@gmail.com)
 <!-- Agrega tu LinkedIn si tienes -->
 <!-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario) -->
-
----
-
-## 🎵 Un poco más sobre mí
-
-- 🎶 Amante de la música y el canto  
-- 🎨 Me gusta el dibujo digital y tradicional  
-- 🔍 Siempre en busca de nuevos retos y aprendizajes
 
 ---
 
