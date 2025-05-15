@@ -78,7 +78,7 @@ Soy Jorge Luis, un joven oaxaqueño de 23 años apasionado por **aprender, crear
 
 📧 [jorgepad002@gmail.com](mailto:jorgepad002@gmail.com)
 <!-- Agrega tu LinkedIn si tienes -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-luis-padilla-martínez-6a20742a6)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-luis-padilla-martinez-6a20742a6)
 
 
 ---
